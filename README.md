@@ -1,6 +1,6 @@
-# Power BI Dashboard Project
+# Student Performance Dashboard
 
-This project was developed using Python, SQL, and Power BI for data analysis and dashboard visualization.
+This project was developed using Python, SQL, and Power BI for student performance analysis and dashboard visualization.
 
 ## Technologies Used
 - Python
@@ -11,29 +11,30 @@ This project was developed using Python, SQL, and Power BI for data analysis and
 
 ## Features
 - Data Cleaning
-- SQL Integration
-- Dashboard Visualization
+- Student Performance Analysis
+- Interactive Dashboard
 - KPI Analysis
-- Interactive Charts
+- Gender Based Analysis
+- Test Preparation Insights
 
 ---
 
 # Dashboard Screenshots
 
-## Dashboard Overview
-![Dashboard](dashboard_overview.png)
+## Average Maths Score
+![Average Maths](Average_Maths_Score.png)
 
-## Sales Analysis
-![Sales](sales_analysis.png)
+## Count of Gender by Lunch
+![Lunch](Count_of_Gender_by_Lunch.png)
 
-## KPI Analysis
-![KPI](kpi_analysis.png)
+## Gender Analysis
+![Gender](Gender.png)
 
-## Revenue Analysis
-![Revenue](revenue_analysis.png)
+## Genderwise Student Performance
+![Performance](Genderwise_Student_Performance.png)
 
-## Category Analysis
-![Category](category_analysis.png)
+## Maths VS Reading Analysis
+![Maths Reading](Maths_VS_Reading_Analysis.png)
 
-## Trend Analysis
-![Trend](trend_analysis.png)
+## Test Preparation Performance
+![Preparation](Test_Preparation_Performance.png)
