@@ -32,5 +32,4 @@ This project was developed using Python, SQL, and Power BI for student performan
 ![Performance](Genderwise_Student_Performance.png)
 
 
-## Test Preparation Performance
-![Preparation](Test_Preparation_Performance.png)
+
